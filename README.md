@@ -67,8 +67,8 @@ AI-powered tool that analyzes resumes, live and deployed on Vercel.
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahzaib135sardar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C7D2FE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib135sardar&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C7D2FE" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=shahzaib135sardar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C7D2FE" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahzaib135sardar&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C7D2FE" />
 </div>
 
 <div align="center">

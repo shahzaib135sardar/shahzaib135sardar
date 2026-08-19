@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Shahzaib 👋</h1>
-<h3 align="center">Computer Science Undergraduate · Aspiring Agentic AI Developer & Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4338ca&height=200&section=header&text=Shahzaib%20Sardar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Agentic%20AI%20Developer%20%C2%B7%20Software%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/shahzaib135sardar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+AI+built+in;Exploring+agentic+AI+systems;CS+Undergrad+%40+UET+Lahore;Open+to+remote+SWE+%2F+AI+roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,prisma,cs,git&theme=dark" />
+
+</div>
 
 ---
 
@@ -30,13 +30,32 @@ Before software became the focus, I led the **Graphic Design Team at GCU Lahore*
 
 ### 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://placehold.co/500x280/1e1b4b/e0e7ff?text=Pakistan+Legal+App&font=roboto" width="100%"/>
+
 **[Pakistan Legal App](https://github.com/shahzaib135sardar/pakistan-legal-app)**
 Legal-assistance web application, live and deployed on Vercel.
-`TypeScript` · Live demo: *add your Vercel link here*
+`TypeScript`
+[Repo](https://github.com/shahzaib135sardar/pakistan-legal-app) · Live demo: *add your Vercel link*
+
+</td>
+<td width="50%">
+
+<img src="https://placehold.co/500x280/312e81/e0e7ff?text=ResumeAI+Analyzer&font=roboto" width="100%"/>
 
 **[ResumeAI — Resume Analyzer](https://github.com/shahzaib135sardar/resume-analyzer)**
 AI-powered tool that analyzes resumes, live and deployed on Vercel.
-`TypeScript` · Live demo: *add your Vercel link here*
+`TypeScript`
+[Repo](https://github.com/shahzaib135sardar/resume-analyzer) · Live demo: *add your Vercel link*
+
+</td>
+</tr>
+</table>
+
+> Swap the two placeholder images above for real screenshots of each app — drop them in an `/assets` folder in the repo and point the `<img src>` at the file, e.g. `assets/legal-app.png`.
 
 ### 🎓 Academic Projects
 
@@ -47,10 +66,14 @@ AI-powered tool that analyzes resumes, live and deployed on Vercel.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahzaib135sardar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib135sardar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahzaib135sardar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=C7D2FE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib135sardar&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C7D2FE" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=shahzaib135sardar&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" />
+</div>
 
 ---
 
@@ -62,12 +85,16 @@ Interested in AI, philosophy, astronomy, and sketching — and I follow cricket,
 
 ---
 
+<div align="center">
+
 ### 📫 Connect
 
-<p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below.</i></p>
+<img src="https://komarev.com/ghpvc/?username=shahzaib135sardar&color=6366f1&style=flat-square&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,100:1e1b4b&height=100&section=footer" width="100%"/>
+
+</div>
